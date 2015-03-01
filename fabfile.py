@@ -47,3 +47,4 @@ def build():
 def clean():
     """Clean up after a build."""
     local('rm -rf dist')
+
